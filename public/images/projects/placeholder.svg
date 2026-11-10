@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-labelledby="title">
+  <title id="title">TODO: Ganti dengan gambar proyek</title>
+  <rect width="1200" height="750" fill="#e6edf5"/>
+  <path d="M0 125h1200M960 0v750" stroke="#c0d0e0" stroke-width="2"/>
+  <rect x="160" y="180" width="880" height="400" rx="6" fill="#f7f9fc" stroke="#b8cadc" stroke-width="2"/>
+  <path d="M160 232h880" stroke="#c4d3e2" stroke-width="2"/>
+  <circle cx="190" cy="206" r="5" fill="#9cb1c6"/>
+  <circle cx="210" cy="206" r="5" fill="#9cb1c6"/>
+  <circle cx="230" cy="206" r="5" fill="#9cb1c6"/>
+  <rect x="202" y="278" width="330" height="22" rx="4" fill="#b7c9dc"/>
+  <rect x="202" y="322" width="250" height="12" rx="3" fill="#d5e0eb"/>
+  <rect x="202" y="345" width="280" height="12" rx="3" fill="#d5e0eb"/>
+  <rect x="202" y="400" width="112" height="34" rx="4" fill="#183b69"/>
+  <rect x="650" y="274" width="336" height="238" rx="4" fill="#d8e4ef"/>
+  <path d="M650 456l84-77 65 50 65-70 122 105v48H650z" fill="#bacddd"/>
+  <circle cx="905" cy="326" r="17" fill="#abc2d6"/>
+  <text x="80" y="684" fill="#183b69" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="3">TODO: GAMBAR PROYEK</text>
+  <path d="M1057 652h62v62h-62zM1088 666v34M1071 683h34" fill="none" stroke="#183b69" stroke-width="2"/>
+</svg>

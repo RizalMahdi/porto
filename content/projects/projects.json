@@ -1,0 +1,52 @@
+[
+  {
+    "slug": "Bloxshop-E-commerce",
+    "judul": "Bloxshop E-commerce",
+    "jenis": "Tugas Kuliah",
+    "ringkasan": "Membangun Website e-commerce fiktif bernama Bloxshop, yang bertujuan untuk memudahkan pengelola dalam mengatur produk, pesanan, dan laporan penjualan.",
+    "peran": "Memimpin pengembangan prototipe halaman dasbor, mulai dari perancangan antarmuka hingga implementasi menggunakan Laravel dan Filament.",
+    "teknologi": ["Laravel", "Filament", "PHP", "Tailwind CSS", "JavaScript"],
+    "alasanTeknologi": "mengenbangkan prototipe halaman dasbor menggunakan Laravel dan Filament untuk memanfaatkan fitur manajemen data yang efisien, serta menggunakan Tailwind CSS untuk desain responsif. Figma digunakan untuk merancang antarmuka sebelum implementasi.",
+    "masalah": "Pengelola Bloxshop membutuhkan cara yang efisien untuk mengatur produk, pesanan, dan laporan penjualan. Tantangannya adalah menyajikan informasi yang kompleks dalam antarmuka yang mudah digunakan.",
+    "proses": "Langkah pertama adalah merancang wireframe dan mockup halaman dasbor menggunakan Figma, dengan fokus pada navigasi yang intuitif dan penyajian data yang jelas. Setelah desain disetujui, saya mengimplementasikan prototipe menggunakan Laravel untuk backend dan Filament untuk membangun antarmuka manajemen data. Tailwind CSS digunakan untuk memastikan desain responsif di berbagai perangkat. Selama proses ini, saya melakukan pengujian internal untuk memastikan fungsionalitas dan pengalaman pengguna yang baik.",
+    "hasil": "Prototipe halaman dasbor berhasil dikembangkan dan diuji secara internal. Pengelola Bloxshop dapat dengan mudah menambahkan, mengedit, dan menghapus produk, memantau pesanan, dan menghasilkan laporan penjualan.",
+    "pembelajaran": "Dari proyek ini, saya belajar tentang pentingnya perancangan antarmuka yang intuitif, serta bagaimana mengintegrasikan berbagai teknologi untuk membangun prototipe yang fungsional. Saya juga memperoleh pengalaman dalam menggunakan Laravel dan Filament untuk pengembangan backend dan manajemen data.",
+    "gambar": {
+      "src": "/images/projects/BLOXSHOP/bloxshop.png",
+      "alt": "bloxshop-ecommerce"
+    },
+    "gambarTambahan": [
+      {
+        "src": "/images/projects/BLOXSHOP/bloxshop-dashboard.png",
+        "alt": "bloxshop-dashboard"
+      }
+    ],
+    "demoUrl": "https://bloxshop.up.railway.app/",
+    "repoUrl": "https://github.com/RizalMahdi/PBO"
+  },
+  {
+    "slug": "Pengelolaan-Data-PT-Bilik-Qurban-Indonesia",
+    "judul": "Pengelolaan Data PT Bilik Qurban Indonesia",
+    "jenis": "Mandiri",
+    "ringkasan": "Website ini di rancang untuk memudahkan pengelolaan data PT Bilik Qurban Indonesia, yang mencakup manajemen produk, pesanan, dan laporan penjualan.",
+    "peran": "Saya bertanggung jawab dalam merancang dan mengembangkan prototipe halaman dasbor, mulai dari perancangan antarmuka hingga implementasi menggunakan Next.js, React, dan Node.js.",
+    "teknologi": ["React", "Next.js", "Node.js", "Tailwind CSS", "JavaScript"],
+    "alasanTeknologi": "Memilih Next.js dan React untuk membangun prototipe halaman dasbor karena kemampuannya dalam membangun aplikasi web yang cepat dan responsif. Node.js digunakan untuk backend, sementara Tailwind CSS digunakan untuk desain antarmuka yang modern dan responsif.",
+    "masalah": "Masalah pada PT Bilik Qurban Indonesia adalah pengelolaan data yang kompleks, termasuk produk, pesanan, dan laporan penjualan. Tantangannya adalah menyajikan informasi ini dalam antarmuka yang mudah digunakan dan efisien.",
+    "proses": "Saat ini, Saya sedang dalam tahap perancangan pengumpulan data dan kebutuhan pengguna untuk membangun website yang sesuai dengan kebutuhan PT Bilik Qurban Indonesia.",
+    "hasil": "Cooming soon",
+    "pembelajaran": "cooming soon",
+    "gambar": {
+      "src": "/images/projects/Bilik/Coming Soon Web.png",
+      "alt": "coming-soon"
+    },
+    "gambarTambahan": [
+      {
+        "src": "/images/projects/Bilik/Coming Soon Web.png",
+        "alt": "coming-soon"
+      }
+    ],
+    "demoUrl": "null",
+    "repoUrl": "null"
+  }
+]
